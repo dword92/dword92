@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @dword92
+- 👀 I’m interested in Life
+- 🌱 I’m currently learning Python
